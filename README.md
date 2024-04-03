@@ -12,4 +12,4 @@ functions:
 
 3. validate(currentNum, currentPosition, board) - функция проверки доски на валидность после подстановки некого значения, функция возвращает true, если в строке, столбце и боксе 3х3 нет нашего currentNum
 
-4. stringTo2DArray
+4. stringTo2DArray(str) - функция преобразования входной строки в двумерный массив 9х9
